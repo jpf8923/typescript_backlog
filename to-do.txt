@@ -1,0 +1,4 @@
+do while loop?
+
+// tutorial i am using to learn type script
+https://www.tutorialsteacher.com/typescript/typescript-class
